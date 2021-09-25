@@ -1,0 +1,44 @@
+[
+    {
+        "precio": 350,
+        "id": 1,
+        "title": "Café",
+        "stock": 5,
+        "thumbnailUrl": "../img/1.jpg"
+    },
+    {
+        "precio": 350,
+        "id": 2,
+        "title": "Pizza",
+        "stock": 2,
+        "thumbnailUrl": "../img/2.jpg"
+    },
+    {
+        "precio": 350,
+        "id": 3,
+        "title": "Agua",
+        "stock": 5,
+        "thumbnailUrl": "../img/3.jpg"
+    },
+    {
+        "precio": 350,
+        "id": 4,
+        "title": "Alfajor",
+        "stock": 4,
+        "thumbnailUrl": "../img/4.jpg"
+    },
+    {
+        "precio": 350,
+        "id": 5,
+        "title": "Limón",
+        "stock": 5,
+        "thumbnailUrl": "../img/5.jpg"
+    },
+    {
+        "precio": 150,
+        "id": 6,
+        "title": "Vino",
+        "stock": 5,
+        "thumbnailUrl": "../img/6.jpg"
+    }
+]
